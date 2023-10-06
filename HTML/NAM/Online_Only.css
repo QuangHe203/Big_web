@@ -2,7 +2,7 @@
     font-weight: bold;
 }
 
-.online-only {
+.online {
     width: 100%;
     display: flex;
     margin-top: 40px;
@@ -11,7 +11,7 @@
     flex-wrap: wrap;
     margin: 30px 0;
 }
-.online-only img {
+.online img {
     width: 100%;
 }
 /* .shirt2-right,
